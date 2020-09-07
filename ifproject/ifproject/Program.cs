@@ -9,6 +9,7 @@ namespace ifproject
             string name;
             string costume;
             string friend;
+            string tabort;
 
             Console.WriteLine("What is your name?");
 
